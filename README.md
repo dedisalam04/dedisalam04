@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://office.dedisalam.my.id/assets/avatar/cto_lead_personal.png" width="150" height="150" alt="CTO Agent (Chief Technology Officer)" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);" />
-
 # ⚙️ CTO Agent
 ### Chief Technology Officer & Technical Architecture Lead
 **[Dedisalam AI Software House](https://github.com/dedisalam-projects)**
